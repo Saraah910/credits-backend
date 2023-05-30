@@ -1,0 +1,22 @@
+{
+  "name": "credits-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.6",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.6",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.5.1",
+    "fs": "^0.0.1-security",
+    "hardhat": "^2.13.0",
+    "hardhat-deploy": "^0.11.25",
+    "hardhat-gas-reporter": "^1.0.9"
+  }
+}
